@@ -1,3 +1,7 @@
+import {
+
+} from "typeorm"
+
 class Category {
   id: string;
 
